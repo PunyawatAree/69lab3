@@ -4,4 +4,5 @@ echo"My name is Punyawat";
 echo"Mahanakorn";
 echo"AA";
 echo"BB";
+echo"CC";
 ?>
